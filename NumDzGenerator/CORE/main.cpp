@@ -21,7 +21,7 @@ int main()
     cout << " /00 PrograMmer : ABDO10     ====    COPYRIGHT(C) RESERVED 2018 - 2019" << endl;
     cout << "/ Tool : NumDzGenerator (numgen)" << endl; 
     cout << "| Version : 1.0" << "\t Date : 24/06/2018 = 13:05" << endl; 
-    cout << "\\ Find Me :  fb/abdo10hacker , GitHub/abdo10hacker or abdo10hacker@hotmail.com" << endl<< endl;
+    cout << "\\ Find Me :  fb/abdo10hacker , GitHub/abdo10dz or defacerdz@gmail.com" << endl<< endl;
     cout << " \n \t # Easy Tool , # Easy Source , # Difficult Goal! " <<endl;
     
     // Config file
